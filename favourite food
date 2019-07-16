@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An ordered HTML list</h2>
+
+<ol>
+  <li>English</li>
+  <li>Math</li>
+  <li>Literature</li>
+</ol>  
+
+</body>
+</html>
