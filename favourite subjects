@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An unordered HTML list</h2>
+
+<ul>
+  <li>Sushi</li>
+  <li>Chocolate</li>
+  <li>Cup noodles</li>
+</ul>  
+
+</body>
+</html>
