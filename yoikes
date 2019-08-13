@@ -12,8 +12,6 @@ body
 h1   {color: black;}
 p	{color: red;}
 
-<link rel="stylesheet" href="theme11.css">
-
 #mainheader
 {
             	border: none;
